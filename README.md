@@ -9,12 +9,12 @@ Trybers and Dragons é um jogo inspirado na jornada de aprendizado de desenvolve
 #### Como Contribuir
 Ficaría muito feliz com sua contribuição para o Trybers and Dragons! Se você deseja adicionar novos recursos ou melhorar a documentação, siga estes passos:
 
-Fork do repositório
-Crie uma branch para sua contribuição: git checkout -b minha-contribuicao
-Faça suas alterações
-Commit e envie as alterações: git commit -m "Minha contribuição"
-Faça push para a sua branch: git push origin minha-contribuicao
-Abra um Pull Request
+#### Fork do repositório <br>
+<li>Crie uma branch para sua contribuição: git checkout -b minha-contribuicao</li>
+<li>Faça suas alterações</li>
+<li>Commit e envie as alterações: git commit -m "Minha contribuição"</li>
+<li>Faça push para a sua branch: git push origin minha-contribuicao</li>
+<li>Abra um Pull Request</li>
 
 ### ▶️ Rodando o Projeto
 
